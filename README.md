@@ -1,16 +1,33 @@
-## Hi there 👋
+Hey, I'm Pranav
 
-<!--
-**Pranavkharche21/Pranavkharche21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics & Automation Engineer | Python Learner | Future AI Engineer
 
-Here are some ideas to get you started:
+Building my way from engineering fundamentals to intelligent machines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring :
+
+💡 Python programming and problem-solving
+
+💡 AI/ML fundamentals
+
+💡 Robotics and intelligent automation
+
+💡 Building practical projects and documenting my progress
+
+The goal : Turn curiosity into working projects, and working projects into real engineering skills
+
+[☑ ] Start my journey in Robotics and Automation Engineering
+
+[☑] Begin exploring Python programming
+
+[ ] Strengthen Python fundamentals and problem-solving
+
+[ ] Practice NumPy, data handling, and visualization
+
+[ ] Learn machine learning fundamentals
+
+[ ] Explore OpenCV and computer vision
+
+[ ] Build an intelligent robotics project
+
+[ ] Document and share my engineering projects
